@@ -1,7 +1,5 @@
 # About Me
-- Name: Siddhanth.N.B
-- Website: [LinkedIn](https://www.linkedin.com/in/siddhanth-nagendra-bhimakari/), [Github](https://github.com/SiddhanthNB)
-- Hobbies: Coding, Reading, Philosophy.
+Myself Siddhanth Bhimakari, an ambitious Data Scientist, a progressive Electronics and Communication Engineer with an everlasting appetite to learn.
 
 # Contents
 ## Machine Learning
