@@ -1,5 +1,5 @@
 # About Me
-Myself Siddhanth Bhimakari, an ambitious Data Scientist, a progressive Electronics and Communication Engineer with an everlasting appetite to learn. I really like the story telling aspect of the field. Find me on [LinkedIn](https://www.linkedin.com/in/siddhanth-nagendra-bhimakari/), [Github](https://github.com/SiddhanthNB).
+An ambitious Data Scientist, a progressive Electronics and Communication Engineer with an everlasting appetite to learn. I really like the story telling aspect of the field. Find me on [LinkedIn](https://www.linkedin.com/in/siddhanth-nagendra-bhimakari/), [Github](https://github.com/SiddhanthNB).
 
 Following are the repositories for my data science projects completed by me for self learning, and hobby purposes.
 
