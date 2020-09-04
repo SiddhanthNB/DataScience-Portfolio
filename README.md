@@ -25,7 +25,7 @@ Following are the repositories for my data science projects made for self learni
          
          Instead of loading a dataset, this project uses live and instantaneous data from web to perform further analysis. [Click here](https://covid19-india-streamlit.herokuapp.com/) to visit the Web data-app built on this project.
 
-     - [Forest Fires in Brazil](https://github.com/SiddhanthNB/Brazil-forest-fire): Data visualization and Data analysis on forest fires incidents taken place in brazil between 1998-2017. 
+     - [Forest Fires in Brazil](https://github.com/SiddhanthNB/Brazil-forest-fire): Data visualization and Data analysis on forest fire incidents taken place in brazil between 1998-2017. 
 
        #### *[Click here](https://public.tableau.com/profile/siddhanth.bhimakari#!/) to find my tableau based vizzes.*
     
