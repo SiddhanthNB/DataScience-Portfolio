@@ -6,20 +6,20 @@ Following are the repositories for my data science projects made for self learni
 
 # Contents
 - ## Machine Learning
- -__Python:__
-  - [CO2 emission prediction of LMVs](https://github.com/SiddhanthNB/LMV-Co2-Emission): Simple Linear Regression model used to predict CO2 emission and fuel consumption of light
+  - __Python:__
+   - [CO2 emission prediction of LMVs](https://github.com/SiddhanthNB/LMV-Co2-Emission): Simple Linear Regression model used to predict CO2 emission and fuel consumption of light
   motor vehicles based upon various parameters like engine, transmission, cylinders etc.
   
-  - [Abseenteism prediction of Employees](https://github.com/SiddhanthNB/absenteeism-prediction): Fitting a Logistic Regression model on employee's absenteeism in a business organization to know for how many working hours an employee could be away from work based on information such as how far they live from workplace, how many family members they have, whether they have higher level eductaion degree and etc.
+   - [Abseenteism prediction of Employees](https://github.com/SiddhanthNB/absenteeism-prediction): Fitting a Logistic Regression model on employee's absenteeism in a business organization to know for how many working hours an employee could be away from work based on information such as how far they live from workplace, how many family members they have, whether they have higher level eductaion degree and etc.
   
-  - [Shop Customers Segmentation](https://github.com/SiddhanthNB/shop-customers-segmentation): Clustering anlysis on a shop customers dataset using two main clustering algorithms i.e. K-Means Clustering and Agglomerative Clustering and comparing the results.
+   - [Shop Customers Segmentation](https://github.com/SiddhanthNB/shop-customers-segmentation): Clustering anlysis on a shop customers dataset using two main clustering algorithms i.e. K-Means Clustering and Agglomerative Clustering and comparing the results.
   
-  - [Credit Card Anamoly](https://github.com/SiddhanthNB/credit-card-anamoly): Using credit card fraud detection dataset, built various classifictaion models and comapring the reults.
+   - [Credit Card Anamoly](https://github.com/SiddhanthNB/credit-card-anamoly): Using credit card fraud detection dataset, built various classifictaion models and comapring the reults.
   
- - __R-Programming:__
-  - [Start-Ups profit prediction](https://github.com/SiddhanthNB/linear-regression-Rprogramming): Using startups various spendings and marketing finances to predict which one will survive in the long run! (Model used is Linear regression)
+  - __R-Programming:__
+   - [Start-Ups profit prediction](https://github.com/SiddhanthNB/linear-regression-Rprogramming): Using startups various spendings and marketing finances to predict which one will survive in the long run! (Model used is Linear regression)
   
-  - [Finding Edibility of Mushrooms](https://github.com/SiddhanthNB/DecisionTree-classification-Rprogramming): Built a Decision Tree classifier model to classify various mushrooms between poisonous and edibile by analysing different attributes of the mushroom.
+   - [Finding Edibility of Mushrooms](https://github.com/SiddhanthNB/DecisionTree-classification-Rprogramming): Built a Decision Tree classifier model to classify various mushrooms between poisonous and edibile by analysing different attributes of the mushroom.
   
   
 - ## Data Visualization and EDA
