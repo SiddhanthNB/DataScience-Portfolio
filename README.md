@@ -1,7 +1,7 @@
 # About Me
-An ambitious Data Scientist, a progressive Electronics and Communication Engineer with an everlasting appetite to learn. I really like the story telling aspect of the field. Find me on [LinkedIn](https://www.linkedin.com/in/siddhanth-nagendra-bhimakari/), [Github](https://github.com/SiddhanthNB).
+An ambitious Data Scientist, a programmer by passion, a progressive Electronics and Communication Engineer with an everlasting appetite to learn. Find me on [LinkedIn](https://www.linkedin.com/in/siddhanth-nagendra-bhimakari/), [Github](https://github.com/SiddhanthNB).
 
-Following are the repositories for my data science projects completed by me for self learning, and hobby purposes.
+Following are the repositories for my data science projects made for self learning, and hobby purposes.
 
 
 # Contents
@@ -29,4 +29,6 @@ Following are the repositories for my data science projects completed by me for 
 
   - [Forest Fires in Brazil](https://github.com/SiddhanthNB/Brazil-forest-fire): Data visualization and Data analysis on forest fires incidents taken place in brazil between 1998-2017. 
 
-   *[Click here](https://public.tableau.com/profile/siddhanth.bhimakari#!/) to find my tableau based vizzes.*
+     *[Click here](https://public.tableau.com/profile/siddhanth.bhimakari#!/) to find my tableau based vizzes.*
+    
+If you find value in my work and want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot a mail at [siddhanth.n.b@gmail.com](mailto:siddhanth.n.b@gmail.com).
