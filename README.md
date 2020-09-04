@@ -5,8 +5,8 @@ Following are the repositories for my data science projects made for self learni
 
 
 # Contents
-## Machine Learning
-#### Python:
+- ## Machine Learning
+ -__Python:__
   - [CO2 emission prediction of LMVs](https://github.com/SiddhanthNB/LMV-Co2-Emission): Simple Linear Regression model used to predict CO2 emission and fuel consumption of light
   motor vehicles based upon various parameters like engine, transmission, cylinders etc.
   
@@ -16,13 +16,13 @@ Following are the repositories for my data science projects made for self learni
   
   - [Credit Card Anamoly](https://github.com/SiddhanthNB/credit-card-anamoly): Using credit card fraud detection dataset, built various classifictaion models and comapring the reults.
   
-#### R-Programming:
+ - __R-Programming:__
   - [Start-Ups profit prediction](https://github.com/SiddhanthNB/linear-regression-Rprogramming): Using startups various spendings and marketing finances to predict which one will survive in the long run! (Model used is Linear regression)
   
   - [Finding Edibility of Mushrooms](https://github.com/SiddhanthNB/DecisionTree-classification-Rprogramming): Built a Decision Tree classifier model to classify various mushrooms between poisonous and edibile by analysing different attributes of the mushroom.
   
   
-## Data Visualization and EDA
+- ## Data Visualization and EDA
   - [Covid-19 in India](https://github.com/SiddhanthNB/India-Covid19): Exploratory Data Analysis and Visualization on statewise covid-19 cases in India. 
   
       Instead of loading a dataset, this project uses live and instantaneous data from web to perform further analysis. [Click here](https://covid19-india-streamlit.herokuapp.com/) to visit the Web data-app built on this project.
