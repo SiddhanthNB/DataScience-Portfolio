@@ -19,7 +19,14 @@ Following are the repositories for my data science projects made for self learni
       - [Start-Ups Profit prediction](https://github.com/SiddhanthNB/linear-regression-Rprogramming): Using startup's various spendings and marketing finances to predict which one will survive in the long run! (Model used is Linear regression)
   
       - [Finding Edibility of Mushrooms](https://github.com/SiddhanthNB/DecisionTree-classification-Rprogramming): Built a Decision Tree classifier model to classify various mushrooms between poisonous and edibile by analysing different attributes of the mushroom.
-      
+
+- ## Deep Learning and NLP:
+    - __Deep Learning:__
+      - to be uploaded
+     
+    - __ NLP:__
+      - to be uploaded
+
 - ## Data Visualization and EDA
      - [Covid-19 in India](https://github.com/SiddhanthNB/India-Covid19): Exploratory Data Analysis and Visualization on statewise covid-19 cases in India. 
          
