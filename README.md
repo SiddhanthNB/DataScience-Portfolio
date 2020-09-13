@@ -24,7 +24,7 @@ Following are the repositories for my data science projects made for self learni
     - __Deep Learning:__
       - to be uploaded
      
-    - __ NLP:__
+    - __NLP:__
       - to be uploaded
 
 - ## Data Visualization and EDA
