@@ -22,11 +22,11 @@ Following are the repositories for my data science projects made for self learni
 
 - ## Deep Learning and NLP:
     - __Deep Learning:__
-      - to be uploaded
+      - [Image Classification using ANNs](https://github.com/SiddhanthNB/Fashion-MNIST): Image classification on Fashion-MNIST dataset using shallow Neural Networks and checking its performance.
      
     - __NLP:__
-      - to be uploaded
-
+      - [Twitter Sentiment Analysis](https://github.com/SiddhanthNB/Twitter-Sentiment-Analysis):  Sentiment Analysis of latest Tweets around a specific topic is carried out. And it is further deployed as a data-driven Web application. [Click here](https://tweet-sentiment-streamlit.herokuapp.com/) to visit the data driven web-app built on this project.
+      
 - ## Data Visualization and EDA
      - [Covid-19 in India](https://github.com/SiddhanthNB/India-Covid19): Exploratory Data Analysis and Visualization on statewise covid-19 cases in India. 
          
