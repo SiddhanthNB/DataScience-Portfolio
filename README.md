@@ -25,12 +25,14 @@ Following are the repositories for my data science projects made for self learni
       - [Image Classification using ANNs](https://github.com/SiddhanthNB/Fashion-MNIST): Using Tensorflow2.0 carried out the classification of various clothes images available as Fashion-MNIST dataset using shallow Neural Networks instead of much-preferred CNNs to classify images to check how well it performs in this case.
      
     - __NLP:__
-      - [Twitter Sentiment Analysis](https://github.com/SiddhanthNB/Twitter-Sentiment-Analysis):  Sentiment Analysis of latest Tweets around a specific topic. [Click here](https://tweet-sentiment-streamlit.herokuapp.com/) to find the data driven web-app built on this project.
+      - [Twitter Sentiment Analysis](https://github.com/SiddhanthNB/Twitter-Sentiment-Analysis):  Sentiment Analysis of latest Tweets around a specific topic. 
+        [Click here](https://tweet-sentiment-streamlit.herokuapp.com/) to find the data driven web-app built on this project.
       
 - ## Data Visualization and EDA
      - [Covid-19 in India](https://github.com/SiddhanthNB/India-Covid19): Exploratory Data Analysis and Visualization on statewise covid-19 cases in India. 
          
-         Instead of loading a dataset, this project uses live and instantaneous data from web to perform further analysis. [Click here](https://covid19-india-streamlit.herokuapp.com/) to visit the data driven web-app built on this project.
+         Instead of loading a dataset, this project uses live and instantaneous data from web to perform further analysis. 
+         [Click here](https://covid19-india-streamlit.herokuapp.com/) to visit the data driven web-app built on this project.
 
      - [Forest Fires in Brazil](https://github.com/SiddhanthNB/Brazil-forest-fire): Data visualization and Data analysis on forest fire incidents taken place in brazil between 1998-2017. 
 
